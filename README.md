@@ -1,1 +1,1 @@
-# Physical-Model-Supervised-Machine-Learning-3D-reconstruction
+# Reliable 3D Reconstruction with Single-Shot Digital Grating and Physical Model-Supervised Machine Learning
