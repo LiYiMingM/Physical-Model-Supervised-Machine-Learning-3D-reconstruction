@@ -1,11 +1,12 @@
 # Reliable 3D Reconstruction with Single-Shot Digital Grating and Physical Model-Supervised Machine Learning
-##3D reconstruction flow chart based on MPS_XNet 
+
+## 3D reconstruction flow chart based on MPS_XNet 
 <div>
- <img src="./code_wholenet_losspara_optima/images1/main_figure.png" height="280" width="280"/ >
+ <img src="./code_wholenet_losspara_optima/images1/main_figure.png" height="260" width="280"/ >
 </div>
  The network structure of MPS_XNet 
  <div>
- <img src="./code_wholenet_losspara_optima/images1/psmp_x.png" height="350" width="280"/>
+ <img src="./code_wholenet_losspara_optima/images1/psmp_x.png" height="310" width="280"/>
 </div>
 ## 3D reconstruction effect
 Prediction on metallic workpieces
