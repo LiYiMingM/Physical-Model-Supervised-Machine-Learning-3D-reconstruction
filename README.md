@@ -2,12 +2,13 @@
 
 ## 3D reconstruction flow chart based on MPS_XNet 
 <div>
- <img src="./code_wholenet_losspara_optima/images1/main_figure.png" height="260" width="280"/ >
+ <img src="./code_wholenet_losspara_optima/images1/main_figure.png" height="240" width="280"/ >
 </div>
  The network structure of MPS_XNet 
  <div>
  <img src="./code_wholenet_losspara_optima/images1/psmp_x.png" height="310" width="280"/>
 </div>
+
 ## 3D reconstruction effect
 Prediction on metallic workpieces
 <div>
